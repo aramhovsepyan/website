@@ -20,7 +20,6 @@ The benchmark data and some of its interpretations were presented during [SAMM U
 {{< external-link "https://docs.google.com/presentation/d/1rj_TVaOKVKjI9GDdU__aJrKrYqqiXxnXOD3oEUjtdwY/edit#slide=id.g2f00b646c39_0_0" "Click here to view the SAMM Benchmark dataset v24.1.0">}}.
 
 ## Goals
-
 ### How important is it for your organization to compare against peers?
 This question got a 7 or higher reply from 69% of SAMM users during our 2022 questionnaire. Helping our users answer the critical questions “How am I doing?” and “What might be working for other similar organizations?” has been part of our roadmap for quite some time. Now, we’ve made it a priority.
 It is our goal to build a database for companies to measure the maturity of their security development practices against the industry based on variables such as verticals and company size. In turn, the information we collect can help the SAMM model evolve based on actual information from the field.
